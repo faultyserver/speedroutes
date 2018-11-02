@@ -8,7 +8,7 @@ Press "Continue" to start the game. Timing starts when the spider loading icon d
 # Routing
 
 
-**Fisk Tower** - 2 minutes of unskippable intro. Head north west to Fisk's tower. Skip first cutscene. Wait for truck to arrive. Head toward explosion. Unskippable cutscene with Yuri until entering building. 00Ends after cutscene with fisk hanging in the web.
+**Fisk Tower** - 2 minutes of unskippable intro. Head north west to Fisk's tower. Skip first cutscene. Wait for truck to arrive. Head toward explosion. Unskippable cutscene with Yuri until entering building. Ends after cutscene with fisk hanging in the web.
 
 **Lab 1** - head east to lab. ends when exiting the lab.
 
@@ -16,20 +16,20 @@ Press "Continue" to start the game. Timing starts when the spider loading icon d
 
 **Construction Site** - Lab first then east to construction site. Ends on fade to black after fight
 
-**MJ 1** - north east for empire state photo, get police tower directly north. go to FEAST.
+**MJ 1** - north east for empire state photo, get police tower directly north. go to FEAST. get backpack.
 ADD SPLIT HERE. North to fisks estate. ends after 2 cinematics (dark load screen)
 
 **shocker 1** - Head south east. ends after second cutscene
 
-**lab 2** - go to feast first (happens immediately). head south west to middle of financial district for police tower. Head north to greenwich police tower. takes slightly longer than otto's call but worth for fast travels. ends after 1 cutscene
+**lab 2** - go to feast first (happens immediately). head south west to middle of financial district for police tower. Head north to greenwich police tower. ends after 1 cutscene
 
 **Shocker 2** - research station directly north. head directly east to meet shocker. ends on fade from fight.
 
-**Shipyard** - west to get hell's kitchen police tower first, then north west to shipyard (top of hell's kitchen). 1 cutscene then end
+**Shipyard** - west to get hell's kitchen police tower first, then north west to shipyard (top of hell's kitchen). get crime token if possible. get repaired suit with web blossom. 1 cutscene then end
 
 **Trash** - fast travel home. north after first checkpoint (toward pizza), east to the incinerator. west to MJs after fight. North west to Black Cat. Not too far. EAST To FEAST. End when sleeping.
 
-**Fisk Construction** - Straight north to construction site. Sit on south sid. ends after 2 cutscenes.
+**Fisk Construction** - Straight north to construction site. Get backpack on way. Get crime before sitting on south side. ends after 2 cutscenes.
 
 **Miles 1** - fast travel to financial district tower. 1 cinematic and done
 
