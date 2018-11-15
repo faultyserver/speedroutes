@@ -6,8 +6,8 @@ Playable on PS4 and Xbox One.
 
 ## Any%
 
-  - [Alex's (AlexDest) Route](./spyro-3/any%25-route.md)
-  - [Wed's (NanachiSR) Route](./spyro-3/any%25-Route-Wed.md)
+  - [Alex's (AlexDest) Route](./any%25-route.md)
+  - [Wed's (NanachiSR) Route](./any%25-Route-Wed.md)
   
 ## 117%
 
