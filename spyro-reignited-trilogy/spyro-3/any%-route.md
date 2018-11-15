@@ -1,5 +1,15 @@
 # SRT Spyro 3 - Any% Route
 
+## Progression Requirements
+
+To progress from world to world, you need the End of Level (EoL) egg from each main level in the home world (i.e., excluding speedways and sparx levels).
+
+To fight the sorceress you need 100 eggs to open the door.
+
+## Egg Route
+
+Taken from: https://pastebin.com/6vc4TLA8
+
 Sunrise Spring: By the stream (1)
 
 Sunny Villa: Stair, glide, EoL (4)
