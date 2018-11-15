@@ -10,78 +10,198 @@ To fight the sorceress you need 100 eggs to open the door.
 
 Taken from: https://pastebin.com/6vc4TLA8
 
-Sunrise Spring: By the stream (1)
 
-Sunny Villa: Stair, glide, EoL (4)
+## Sunrise Spring
 
-Cloud Spires: All (10)
+Egg by the stream (1)
 
-Sunrise Spring: Hunter, superfly (12)
+## Sunny Villa
 
-Sheila's Alp: All (15)
+Egg by the building (2)
+Glide to the spring (3)
+Rescue the Mayor (4)
 
-Sunrise Spring: Headbash (16)
+## Cloud Spires
 
-Molten Crater: All except Byrd (20)
+Glide to the island (5)                 Plant the sun seeds (5)
+Plant the sun seeds (6)                 Turn on the cloud generator (6)
+Turn on the cloud generator (7)   or    Bell tower spirits (7)
+Bell tower spirits (8)                  Bell tower thief (8)
+Bell tower thief (9)                    Run along the wall (9)
+Run along the wall (10)                 Glide to the island (10)
 
-Sunrise Spring: Underwater (21)
+## Sunrise Spring
 
-Mushroom Speedway: Speedway and Hunter (23)
+Learn gliding (11)
+Fly through the cave (12)
 
-Seashell Shore: All except Bluto (28)
+## Sheila's Alp
 
-Buzz (29)
+Help Bobby, Pete, and Billy get home (15)
 
-Midday Gardens: Cave (30)
+## Sunrise Spring
 
-Icy Peak: All except Nancy (35)
+Headbash the rock (16)
 
-Midday Gardens: Thief (36)
+## Molten Crater
 
-Sgt. Byrd's Base: NPC Eggs (38)
+Egg by lava river (17)
+Get to the tiki lodge (18)
+Catch both thieves (20)
 
-Molten Crater for Hidden Wall Egg in Byrd (39)
+## Sunrise Spring
 
-Midday Gardens: Underwater (40)
+Bottom of the lake (21)
 
-Enchanted Towers: Island, EoL, Skateboarding Eggs (44)
+## Mushroom Speedway
 
-Spooky Swamp: Island, EoL, and tree eggs (47)
+Time Attack (22)
+Hunter's Dogfight (23)
 
-Midday Gardens: Ladder and flower pots (49)
+## Seashell Shore
 
-Bamboo Terrace: EoL, thief, cave and island eggs (53)
+Under the Docks (24)
+Hop to the Secret Cave (25)
+Destroy the Sand Castle (26)
+Clear out the pipe (27)
+Free the Seals (28)
 
-Spike (54)
+Defeat Buzz (29)
 
-Evening Lake: All except Whale (58)
+## Midday Gardens
 
-Charmed Ridge: All except Byrd (63)
+Secret Ice Cave (30)
 
-Evening Lake: Whale (64)
+## Icy Peak
 
-Lost Fleet: EoL and acid eggs (66)
+Glide to the Sky Island (31)
+On Top of a Ledge (32)
+Find Doug the Polar Bear (33)
+Speedy Thieves I & II (35)
 
-Fireworks Factory: Noodles, Ninja HQ, EoL (69)
+## Sgt. Byrd's Base
 
-Bentley's Outpost: All (72)
+Clear the building and caves (37)
 
-Frozen Altars: All except Cat Hockey (77)
+Guidebook travel to Molten Crater for "Sgt. Byrd blows up a wall" (38)
+Guidebook travel to Midday Gardens for Underwater egg (39)
 
-Scorch's Pit (78)
+## Enchanted Towers
 
-Midnight Mountain: Behind start (79)
+Glide to the small island (40)
+Destroy the sorceress statue (41)
+Trick Skater I & II (43)
 
-Crystal Islands: All except moles (84)
+## Midday Gardens
 
-Midnight Mountain: Thief, wall (86)
+Catch the thief (44)
 
-Desert Ruins: All except sharks (91)
+## Spooky Swamp
 
-Midnight Mountain: Egg near Sorceress (92)
+Jump to the island (45)
+Find Shiny the firefly (46)
+Across the treetops (47)
 
-Haunted Tomb: EoL, slide, tanks 1, climb eggs (96)
+## Midday Gardens
 
-Midnight Mountain: Headbash (97)
+Climb to the ledge (48)
+Superflame the flowerpots (49)
 
-Dino Mines: Behind building, wall, EoL (100)
+## Bamboo Terrace
+
+Glide to the hidden cave (50)
+Glide to the small island (51)
+Clear the panda's path (52)
+Catch the thief (53)
+
+Spike's Arena (54)
+
+## Evening Lake
+
+Break the tower wall (55)
+
+## Fireworks Factory
+
+Hidden in an alcove (56)
+Ninja HQ (57)
+Destwoy the wocket (58)
+
+## Lost Fleet
+
+Find Crazy Ed's treasure (59)
+Swim through acid (60)
+
+## Charmed Ridge
+
+Glide to the Tower (61)
+Egg in the Cave (62)
+Jack and the Beanstalk I & II (64)
+Rescue the Fairy Princess (65)
+
+## Evening Lake
+
+Belly of the whale (66)
+I'm invincible! (67)
+On the bridge (68)
+Glide to the tower (69)
+
+## Bentley's Outpost
+
+The Gong Show (70)
+Snowball's Chance (71)
+Help Bartholomew Home (72)
+
+## Frozen Altars
+
+Glide from the temple roof (73)
+Across the rooftops (74)
+Box the yeti I & II (75)
+Melt the snowmen - EoL (76)
+
+Scorch's Pit (77)
+
+## Midnight Mountain
+
+Glide to the Island (78)
+
+## Crystal Islands
+
+Reach the Crystal Tower (79)
+Ride the Slide (80)
+Catch the Flying Thief (81)
+Fly to the Hidden Egg (82)
+Glide to the Island (83)
+
+## Midnight Mountain
+
+Catch the thief (84)
+Shhh, it's a secret - breakable wall (85)
+
+## Desert Ruins
+
+Sink or Singe (86)
+Give me a Hand (87)
+Krash Kangaroo I & II (89)
+Raid the Tomb (90)
+
+## Midnight Mountain
+
+At the top of the Waterfall (91)
+
+## Haunted Tomb
+
+Climb the Wall (92)
+Tank Blast I (93)
+Release the Temple Dweller (94)
+Snake Slide (95)
+
+## Midnight Mountain
+
+Stomp the Floor (96)
+
+## Dino Mines
+
+Leap of Faith (97)
+Swim through the Wall (98)
+Jail Break (99)
+Shafted! (100)
