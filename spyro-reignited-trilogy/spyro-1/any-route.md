@@ -323,11 +323,11 @@ Head to the left of the Icy Flight portal (camera's perspective) and jump down a
 Routing in Jacques depends on how many gems you need, so instead of a route, here are some simple guidelines for making your requirements:
 
 - You need 6000 gems to leave Dream Weavers.
-- Completing the Jacques fight and getting the gems near the vortex will give you 150 gems.
+- Completing the Jacques fight and getting the gems near the vortex will give you 175 gems.
 - heading directly to Jacques following the right side of the level will only give you ~60 gems.
-- taking the left route toward Jacques _without the key for the chest_ will give you ~100 gems.
-- taking the left route _with_ the key chest will give you ~170 gems.
-- At best, routing a single pass to Jacques will give you 360 gems.
+- taking the left route toward Jacques _without the key for the chest_ will give you ~130 gems.
+- taking the left route _with_ the key chest will give you ~220 gems.
+- At best, routing a single pass to Jacques will give you ~390 gems.
   - If you need up to 430 gems, beat Jacques, then backtrack down the right path (to your left coming back from the fight) to pick up what you need.
   - If you need 440-460 gems, it'll be faster to exit the level after backtracking and collect straggling gems in the homeworld.
   - If you need all 500 gems, continue backtracking and head to the alternate path on the left to 100% the level.
